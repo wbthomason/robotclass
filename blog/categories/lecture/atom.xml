@@ -4,7 +4,7 @@
   <title><![CDATA[Category: lecture | Introduction to Aerial Robotics]]></title>
   <link href="http://wbthomason.github.io/robotclass/blog/categories/lecture/atom.xml" rel="self"/>
   <link href="http://wbthomason.github.io/robotclass/"/>
-  <updated>2014-08-23T13:53:36-04:00</updated>
+  <updated>2014-08-23T13:57:30-04:00</updated>
   <id>http://wbthomason.github.io/robotclass/</id>
   <author>
     <name><![CDATA[Wil Thomason]]></name>
@@ -18,7 +18,7 @@
     <link href="http://wbthomason.github.io/robotclass/blog/2014/08/23/the-course/"/>
     <updated>2014-08-23T13:47:23-04:00</updated>
     <id>http://wbthomason.github.io/robotclass/blog/2014/08/23/the-course</id>
-    <content type="html"><![CDATA[<h1 id="welcome-about-the-class-etc">Welcome, about the class, etc.</h1>
+    <content type="html"><![CDATA[<p>Welcome to the start of ENGR 1501: Introduction to Aerial Robotics. This post will go over the course’s objectives, expectations, and structure, discuss some motivations for studying robotics, and give a brief overview of the structure of the quadcopter we’ll be building in the first few weeks.</p>
 ]]></content>
   </entry>
   
