@@ -4,7 +4,7 @@
   <title><![CDATA[Category: intro | Introduction to Aerial Robotics]]></title>
   <link href="http://wbthomason.github.io/robotclass/blog/categories/intro/atom.xml" rel="self"/>
   <link href="http://wbthomason.github.io/robotclass/"/>
-  <updated>2014-08-24T02:19:04-04:00</updated>
+  <updated>2014-08-24T02:20:01-04:00</updated>
   <id>http://wbthomason.github.io/robotclass/</id>
   <author>
     <name><![CDATA[Wil Thomason]]></name>
@@ -22,7 +22,7 @@
 
 <!--more-->
 
-<h3 id="syllabus">Syllabus:</h3>
+<h3 id="syllabus">Syllabus</h3>
 <p>The syllabus can be found <a href="http://1drv.ms/1BhxqNa">here</a>; this will be where the most up to date version lives throughout the semester. Aside from the topic listing, which we’ll discuss later, the most important parts of the syllabus can be summed up as follows:</p>
 
 <ul>
@@ -32,8 +32,8 @@
   <li><strong>Course grading:</strong> The course is graded Pass/Fail, with grades being calculated as follows: 20% from a quiz on the week’s material, given at the beginning of each class meeting, the remaining 80% from the successful completion of the quadrotor project, and a possible 10% bonus for participating in the final obstacle course challenge (assuming that this happens).</li>
 </ul>
 
-<h3 id="topics">Topics:</h3>
-<p>The course will go over a fairly wide range of topics. Despite the relatively short period of time we have to cover this material, this approach was chosen over a deeper focus on a smaller topic set because of the intended nature of the course as a survey of the field. However, if any students are interested in going more in depth into any of the topics covered/related topics, I’m more than willing to accommodate - to the point of changing the schedule/syllabus if there’s enough interest in the class.</p>
+<h3 id="topics">Topics</h3>
+<p>The course will go over a fairly wide range of topics. Despite the relatively short period of time we have to cover this material, this approach was chosen over a deeper focus on a smaller topic set because of the intended nature of the course as a survey of the field. However, if any students are interested in going more in depth into any of the topics covered/related topics, I’m more than willing to accommodate - to the point of changing the schedule/syllabus if there’s interest from a sufficient proportion of the students.</p>
 ]]></content>
   </entry>
   
