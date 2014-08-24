@@ -1,5 +1,5 @@
 /*
-Syntax error: Undefined variable: "$sans".
+Syntax error: Undefined variable: "$font-default".
         on line 39 of /home/wil/projects/octopress/sass/plugins/_flickr.scss
         from line 3 of /home/wil/projects/octopress/sass/screen.scss
         from line 10 of /home/wil/projects/octopress/sass/screen.scss
@@ -72,4 +72,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Syntax error: Undefined variable: \"$sans\".\A         on line 39 of /home/wil/projects/octopress/sass/plugins/_flickr.scss\A         from line 3 of /home/wil/projects/octopress/sass/screen.scss\A         from line 10 of /home/wil/projects/octopress/sass/screen.scss"; }
+  content: "Syntax error: Undefined variable: \"$font-default\".\A         on line 39 of /home/wil/projects/octopress/sass/plugins/_flickr.scss\A         from line 3 of /home/wil/projects/octopress/sass/screen.scss\A         from line 10 of /home/wil/projects/octopress/sass/screen.scss"; }
