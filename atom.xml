@@ -4,7 +4,7 @@
   <title><![CDATA[Introduction to Aerial Robotics]]></title>
   <link href="http://wbthomason.github.io/robotclass/atom.xml" rel="self"/>
   <link href="http://wbthomason.github.io/robotclass/"/>
-  <updated>2014-08-24T00:41:21-04:00</updated>
+  <updated>2014-08-24T00:42:06-04:00</updated>
   <id>http://wbthomason.github.io/robotclass/</id>
   <author>
     <name><![CDATA[Wil Thomason]]></name>
@@ -22,10 +22,10 @@
 
 <h3 id="syllabus">Syllabus:</h3>
 <p>The syllabus can be found <a href="http://1drv.ms/1BhxqNa">here</a>; this will be where the most up to date version lives throughout the semester. Aside from the topic listing, which we’ll discuss later, the most important parts of the syllabus can be summed up as follows:
-  - Intent of the course: To provide students with a basic survey of modern robotics, in hopes of sparking interest in the field.
-  - Structure of the course: Biweekly meetings on Tuesdays, which will typically consist of a short review of the week’s material followed by time to work construction/modification of the quadrotor. The exact balance of these components will vary by week as necessary.
-  - Course requirements: No textbook, but some programming experience - preferably in C/C++, preferably dealing with embedded hardware - is required. Any prior experience with robotics is welcomed, although students with such experience are cautioned that this is very much an introductory course.
-  - Course grading: The course is graded Pass/Fail, with grades being calculated as follows: 20% from a quiz on the week’s material, given at the beginning of each class meeting, the remaining 80% from the successful completion of the quadrotor project, and a possible 10% bonus for participating in the final obstacle course challenge (assuming that it is able to occur).</p>
+  * Intent of the course: To provide students with a basic survey of modern robotics, in hopes of sparking interest in the field.
+  * Structure of the course: Biweekly meetings on Tuesdays, which will typically consist of a short review of the week’s material followed by time to work construction/modification of the quadrotor. The exact balance of these components will vary by week as necessary.
+  * Course requirements: No textbook, but some programming experience - preferably in C/C++, preferably dealing with embedded hardware - is required. Any prior experience with robotics is welcomed, although students with such experience are cautioned that this is very much an introductory course.
+  * Course grading: The course is graded Pass/Fail, with grades being calculated as follows: 20% from a quiz on the week’s material, given at the beginning of each class meeting, the remaining 80% from the successful completion of the quadrotor project, and a possible 10% bonus for participating in the final obstacle course challenge (assuming that it is able to occur).</p>
 ]]></content>
   </entry>
   
