@@ -4,7 +4,7 @@
   <title><![CDATA[Introduction to Aerial Robotics]]></title>
   <link href="http://wbthomason.github.io/robotclass/atom.xml" rel="self"/>
   <link href="http://wbthomason.github.io/robotclass/"/>
-  <updated>2014-08-24T00:28:03-04:00</updated>
+  <updated>2014-08-24T00:28:39-04:00</updated>
   <id>http://wbthomason.github.io/robotclass/</id>
   <author>
     <name><![CDATA[Wil Thomason]]></name>
@@ -20,7 +20,7 @@
     <id>http://wbthomason.github.io/robotclass/blog/2014/08/23/the-course</id>
     <content type="html"><![CDATA[<p>Welcome to ENGR 1501: Introduction to Aerial Robotics. This post will go over the course’s objectives, expectations, and structure, discuss some motivations for studying robotics, and give a brief overview of the structure of the quadcopter we’ll be building in the first few weeks. We’ll start with the syllabus.</p>
 
-<h2 id="syllabus">Syllabus</h2>
+<h4 id="syllabus">Syllabus</h4>
 <p>The syllabus can be found <a href="http://1drv.ms/1BhxqNa">here</a>; this will be where the most up to date version lives throughout the semester. Aside from the topic listing, which we’ll discuss later, the most important parts of the syllabus can be summed up as follows:</p>
 ]]></content>
   </entry>
