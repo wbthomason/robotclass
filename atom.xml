@@ -4,7 +4,7 @@
   <title><![CDATA[Introduction to Aerial Robotics]]></title>
   <link href="http://wbthomason.github.io/robotclass/atom.xml" rel="self"/>
   <link href="http://wbthomason.github.io/robotclass/"/>
-  <updated>2014-08-24T02:13:46-04:00</updated>
+  <updated>2014-08-24T02:19:04-04:00</updated>
   <id>http://wbthomason.github.io/robotclass/</id>
   <author>
     <name><![CDATA[Wil Thomason]]></name>
@@ -31,6 +31,9 @@
   <li><strong>Course requirements:</strong> No textbook, but some programming experience - preferably in C/C++, preferably dealing with embedded hardware - is required. Any prior experience with robotics is welcomed, although students with such experience are cautioned that this is very much an introductory course.</li>
   <li><strong>Course grading:</strong> The course is graded Pass/Fail, with grades being calculated as follows: 20% from a quiz on the week’s material, given at the beginning of each class meeting, the remaining 80% from the successful completion of the quadrotor project, and a possible 10% bonus for participating in the final obstacle course challenge (assuming that this happens).</li>
 </ul>
+
+<h3 id="topics">Topics:</h3>
+<p>The course will go over a fairly wide range of topics. Despite the relatively short period of time we have to cover this material, this approach was chosen over a deeper focus on a smaller topic set because of the intended nature of the course as a survey of the field. However, if any students are interested in going more in depth into any of the topics covered/related topics, I’m more than willing to accommodate - to the point of changing the schedule/syllabus if there’s enough interest in the class.</p>
 ]]></content>
   </entry>
   
