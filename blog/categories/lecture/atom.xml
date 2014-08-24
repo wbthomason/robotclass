@@ -1,39 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Lecture | My Octopress Blog]]></title>
-  <link href="http://wbthomason.github.io//github/blog/categories/lecture/atom.xml" rel="self"/>
-  <link href="http://wbthomason.github.io//github/"/>
-  <updated>2014-08-24T02:06:58-04:00</updated>
-  <id>http://wbthomason.github.io//github/</id>
+  <title><![CDATA[Category: lecture | Introduction to Aerial Robotics]]></title>
+  <link href="http://wbthomason.github.io/robotclass/blog/categories/lecture/atom.xml" rel="self"/>
+  <link href="http://wbthomason.github.io/robotclass/"/>
+  <updated>2014-08-24T02:07:33-04:00</updated>
+  <id>http://wbthomason.github.io/robotclass/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Wil Thomason]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
-    <title type="html"><![CDATA[The Course]]></title>
-    <link href="http://wbthomason.github.io//github/blog/2014/08/23/the-course/"/>
+    <title type="html"><![CDATA[the course]]></title>
+    <link href="http://wbthomason.github.io/robotclass/blog/2014/08/23/the-course/"/>
     <updated>2014-08-23T13:47:23-04:00</updated>
-    <id>http://wbthomason.github.io//github/blog/2014/08/23/the-course</id>
-    <content type="html"><![CDATA[<p>Welcome to ENGR 1501: Introduction to Aerial Robotics. This post will go over the course&rsquo;s objectives, expectations, and structure, discuss some motivations for studying robotics, and give a brief overview of the structure of the quadcopter we&rsquo;ll be building in the first few weeks. We&rsquo;ll get started with the syllabus.</p>
+    <id>http://wbthomason.github.io/robotclass/blog/2014/08/23/the-course</id>
+    <content type="html"><![CDATA[<p>Welcome to ENGR 1501: Introduction to Aerial Robotics. This post will go over the course’s objectives, expectations, and structure, discuss some motivations for studying robotics, and give a brief overview of the structure of the quadcopter we’ll be building in the first few weeks. We’ll get started with the syllabus.</p>
 
 <!--more-->
 
-
-<h3>Syllabus:</h3>
-
-<p>The syllabus can be found <a href="http://1drv.ms/1BhxqNa">here</a>; this will be where the most up to date version lives throughout the semester. Aside from the topic listing, which we&rsquo;ll discuss later, the most important parts of the syllabus can be summed up as follows:</p>
+<h3 id="syllabus">Syllabus:</h3>
+<p>The syllabus can be found <a href="http://1drv.ms/1BhxqNa">here</a>; this will be where the most up to date version lives throughout the semester. Aside from the topic listing, which we’ll discuss later, the most important parts of the syllabus can be summed up as follows:</p>
 
 <ul>
-<li><strong>Intent of the course:</strong> To provide students with a basic survey of modern robotics, in hopes of sparking interest in the field.</li>
-<li><strong>Structure of the course:</strong> Biweekly meetings on Tuesdays, which will typically consist of a short review of the week&rsquo;s material followed by time to work construction/modification of the quadrotor. The exact balance of these components will vary by week as necessary.</li>
-<li><strong>Course requirements:</strong> No textbook, but some programming experience - preferably in C/C++, preferably dealing with embedded hardware - is required. Any prior experience with robotics is welcomed, although students with such experience are cautioned that this is very much an introductory course.</li>
-<li><strong>Course grading:</strong> The course is graded Pass/Fail, with grades being calculated as follows: 20% from a quiz on the week&rsquo;s material, given at the beginning of each class meeting, the remaining 80% from the successful completion of the quadrotor project, and a possible 10% bonus for participating in the final obstacle course challenge (assuming that this happens).</li>
+  <li><strong>Intent of the course:</strong> To provide students with a basic survey of modern robotics, in hopes of sparking interest in the field.</li>
+  <li><strong>Structure of the course:</strong> Biweekly meetings on Tuesdays, which will typically consist of a short review of the week’s material followed by time to work construction/modification of the quadrotor. The exact balance of these components will vary by week as necessary.</li>
+  <li><strong>Course requirements:</strong> No textbook, but some programming experience - preferably in C/C++, preferably dealing with embedded hardware - is required. Any prior experience with robotics is welcomed, although students with such experience are cautioned that this is very much an introductory course.</li>
+  <li><strong>Course grading:</strong> The course is graded Pass/Fail, with grades being calculated as follows: 20% from a quiz on the week’s material, given at the beginning of each class meeting, the remaining 80% from the successful completion of the quadrotor project, and a possible 10% bonus for participating in the final obstacle course challenge (assuming that this happens).</li>
 </ul>
-
 ]]></content>
   </entry>
   

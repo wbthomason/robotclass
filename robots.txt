@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://wbthomason.github.io//github/sitemap.xml 
+Sitemap: http://wbthomason.github.io/robotclass/sitemap.xml 
