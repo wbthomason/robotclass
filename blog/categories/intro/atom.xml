@@ -4,7 +4,7 @@
   <title><![CDATA[Category: intro | Introduction to Aerial Robotics]]></title>
   <link href="http://wbthomason.github.io/robotclass/blog/categories/intro/atom.xml" rel="self"/>
   <link href="http://wbthomason.github.io/robotclass/"/>
-  <updated>2014-08-24T02:24:08-04:00</updated>
+  <updated>2014-08-24T02:33:58-04:00</updated>
   <id>http://wbthomason.github.io/robotclass/</id>
   <author>
     <name><![CDATA[Wil Thomason]]></name>
@@ -35,7 +35,7 @@
 <h3 id="topics">Topics</h3>
 <p>The course will go over a fairly wide range of topics. Despite the relatively short period of time we have to cover this material, this approach was chosen over a deeper focus on a smaller topic set because of the intended nature of the course as a survey of the field. However, if any students are interested in going more in depth into any of the topics covered/related topics, I’m more than willing to accommodate - to the point of changing the schedule/syllabus if there’s interest from a sufficient proportion of the students.</p>
 
-<p>After this week’s administrivia and discussion of reasons for studying robotics, we’ll dive right into the course proper. The general arc of topics moves somewhat from lower to higher level concepts, starting with control theory and kinematics, moving through subjects in artificial intelligence, and finishing with investigation of one of the most important problems in robotics (SLAM) and a section on computer vision.</p>
+<p>After this week’s administrivia and discussion of reasons for studying robotics, we’ll dive right into the course proper. The general arc of topics moves somewhat from lower to higher level concepts, starting with control theory and kinematics, moving through subjects in artificial intelligence, and finishing with investigation of one of the most important problems in robotics (SLAM) and a section on computer vision. Another way to consider the organization of the course is in terms of loosely growing “knowledge” of the world possessed by the studied systems. We start by learning about actuators and systems that create a change in the physical world, but don’t know much about the world by themselves, move into means of reasoning about state, and wrap up by finally fully incorporating information about the world, gathered through sensors and processed through the aforementioned reasoning techniques, into actions taken by our robot.</p>
 ]]></content>
   </entry>
   
