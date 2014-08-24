@@ -1,16 +1,16 @@
 /*
-Syntax error: Undefined mixin 'shadow-box'.
-        on line 28 of /home/wil/projects/octopress/sass/plugins/_flickr.scss, in `shadow-box'
-        from line 28 of /home/wil/projects/octopress/sass/plugins/_flickr.scss
+Syntax error: Undefined variable: "$sans".
+        on line 39 of /home/wil/projects/octopress/sass/plugins/_flickr.scss
         from line 3 of /home/wil/projects/octopress/sass/screen.scss
         from line 10 of /home/wil/projects/octopress/sass/screen.scss
 
 Backtrace:
-/home/wil/projects/octopress/sass/plugins/_flickr.scss:28:in `shadow-box'
-/home/wil/projects/octopress/sass/plugins/_flickr.scss:28
+/home/wil/projects/octopress/sass/plugins/_flickr.scss:39
 /home/wil/projects/octopress/sass/screen.scss:3
 /home/wil/projects/octopress/sass/screen.scss:10
-/home/wil/.rbenv/versions/1.9.3-p0/lib/ruby/gems/1.9.1/gems/sass-3.2.19/lib/sass/tree/visitors/perform.rb:253:in `visit_mixin'
+/home/wil/.rbenv/versions/1.9.3-p0/lib/ruby/gems/1.9.1/gems/sass-3.2.19/lib/sass/script/variable.rb:49:in `_perform'
+/home/wil/.rbenv/versions/1.9.3-p0/lib/ruby/gems/1.9.1/gems/sass-3.2.19/lib/sass/script/node.rb:40:in `perform'
+/home/wil/.rbenv/versions/1.9.3-p0/lib/ruby/gems/1.9.1/gems/sass-3.2.19/lib/sass/tree/visitors/perform.rb:298:in `visit_prop'
 /home/wil/.rbenv/versions/1.9.3-p0/lib/ruby/gems/1.9.1/gems/sass-3.2.19/lib/sass/tree/visitors/base.rb:37:in `visit'
 /home/wil/.rbenv/versions/1.9.3-p0/lib/ruby/gems/1.9.1/gems/sass-3.2.19/lib/sass/tree/visitors/perform.rb:100:in `visit'
 /home/wil/.rbenv/versions/1.9.3-p0/lib/ruby/gems/1.9.1/gems/sass-3.2.19/lib/sass/tree/visitors/base.rb:53:in `block in visit_children'
@@ -72,4 +72,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Syntax error: Undefined mixin 'shadow-box'.\A         on line 28 of /home/wil/projects/octopress/sass/plugins/_flickr.scss, in `shadow-box'\A         from line 28 of /home/wil/projects/octopress/sass/plugins/_flickr.scss\A         from line 3 of /home/wil/projects/octopress/sass/screen.scss\A         from line 10 of /home/wil/projects/octopress/sass/screen.scss"; }
+  content: "Syntax error: Undefined variable: \"$sans\".\A         on line 39 of /home/wil/projects/octopress/sass/plugins/_flickr.scss\A         from line 3 of /home/wil/projects/octopress/sass/screen.scss\A         from line 10 of /home/wil/projects/octopress/sass/screen.scss"; }
