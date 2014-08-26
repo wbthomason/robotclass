@@ -4,7 +4,7 @@
   <title><![CDATA[Category: intro | Introduction to Aerial Robotics]]></title>
   <link href="http://wbthomason.github.io/robotclass/blog/categories/intro/atom.xml" rel="self"/>
   <link href="http://wbthomason.github.io/robotclass/"/>
-  <updated>2014-08-26T00:33:16-04:00</updated>
+  <updated>2014-08-26T00:37:22-04:00</updated>
   <id>http://wbthomason.github.io/robotclass/</id>
   <author>
     <name><![CDATA[Wil Thomason]]></name>
@@ -56,7 +56,11 @@
 
 <h3 id="interesting-problems">Interesting problems</h3>
 
+<p>As a field just beginning to move out of relatively primitive stages, robotics contains a huge number of really interesting problems.</p>
+
 <h2 id="the-quadcopter">The quadcopter</h2>
+
+<p>A large part of this course is centered around the construction and modification of an autonomous quadrotor aircraft - it is, after all, titled “Introduction to <em>Aerial</em> Robotics”.</p>
 
 <h3 id="design">Design</h3>
 
