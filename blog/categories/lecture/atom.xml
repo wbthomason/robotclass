@@ -4,7 +4,7 @@
   <title><![CDATA[Category: lecture | Introduction to Aerial Robotics]]></title>
   <link href="http://wbthomason.github.io/robotclass/blog/categories/lecture/atom.xml" rel="self"/>
   <link href="http://wbthomason.github.io/robotclass/"/>
-  <updated>2014-08-25T21:54:33-04:00</updated>
+  <updated>2014-08-25T21:55:05-04:00</updated>
   <id>http://wbthomason.github.io/robotclass/</id>
   <author>
     <name><![CDATA[Wil Thomason]]></name>
@@ -46,9 +46,11 @@
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/MvRTALJp8DM" frameborder="0" allowfullscreen=""></iframe>
 
-<p>or this
-<img src="http://www.youtube.com/embed/MvRTALJp8DM" alt="" />
-are really cool - it doesn’t matter.</p>
+<p>or this</p>
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/MvRTALJp8DM" frameborder="0" allowfullscreen=""></iframe>
+
+<p>are really cool - it doesn’t matter.</p>
 
 <h3 id="interesting-problems">Interesting problems</h3>
 
