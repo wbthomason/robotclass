@@ -4,7 +4,7 @@
   <title><![CDATA[Introduction to Aerial Robotics]]></title>
   <link href="http://wbthomason.github.io/robotclass/atom.xml" rel="self"/>
   <link href="http://wbthomason.github.io/robotclass/"/>
-  <updated>2014-08-25T21:53:36-04:00</updated>
+  <updated>2014-08-25T21:54:33-04:00</updated>
   <id>http://wbthomason.github.io/robotclass/</id>
   <author>
     <name><![CDATA[Wil Thomason]]></name>
@@ -44,13 +44,7 @@
 <h2 id="why-robotics">Why robotics?</h2>
 <p>Clearly, given that you’re enrolled in this class/reading this page, you have some manner of interest in robotics. Maybe you’re fascinated by artificial intelligence, maybe you love kinematics or motion planning, maybe you just think videos like this</p>
 
-<div class="ratio-4-3 embed-video-container" onclick="var myAnchor = document.getElementById('SD6Okylclb8');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe src=&quot;http://www.youtube.com/embed/SD6Okylclb8?autoplay=1&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, myAnchor);return false;" title="click here to play">
-<a class="youtube-lazy-link" style="url(http://i2.ytimg.com/vi/SD6Okylclb8/0.jpg)" href="http://www.youtube.com/watch?v=SD6Okylclb8" id="SD6Okylclb8" onclick="return false;">
-<div class="youtube-lazy-link-div"></div>
-
-</a>
-
-</div>
+<iframe width="640" height="360" src="//www.youtube.com/embed/MvRTALJp8DM" frameborder="0" allowfullscreen=""></iframe>
 
 <p>or this
 <img src="http://www.youtube.com/embed/MvRTALJp8DM" alt="" />
