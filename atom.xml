@@ -4,7 +4,7 @@
   <title><![CDATA[Introduction to Aerial Robotics]]></title>
   <link href="http://wbthomason.github.io/robotclass/atom.xml" rel="self"/>
   <link href="http://wbthomason.github.io/robotclass/"/>
-  <updated>2014-08-25T21:25:19-04:00</updated>
+  <updated>2014-08-25T21:29:03-04:00</updated>
   <id>http://wbthomason.github.io/robotclass/</id>
   <author>
     <name><![CDATA[Wil Thomason]]></name>
@@ -42,8 +42,29 @@
 <p>Above all else with the topics, I wish to emphasize that nothing is immutable; as the overarching intent of the entire course is to foster interest in robotics, the topics will be tweaked to better fit the interests of the students, spending more time in areas of significant interest, giving a more shallow treatment to areas which lack a similar draw, and so on.</p>
 
 <h2 id="why-robotics">Why robotics?</h2>
-<p>Clearly, given that you’re enrolled in this class/reading this page, you have some manner of interest in robotics. Maybe you’re fascinated by artificial intelligence, maybe you love kinematics or motion planning, maybe you just think videos like this <video width="" height="" preload="none" controls="" poster=""><source src="http://youtu.be/SD6Okylclb8" /></video> or this <video width="" height="" preload="none" controls="" poster=""><source src="http://youtu.be/MvRTALJp8DM" /></video> are really cool - it doesn’t matter. 
-### Interesting problems</p>
+<p>Clearly, given that you’re enrolled in this class/reading this page, you have some manner of interest in robotics. Maybe you’re fascinated by artificial intelligence, maybe you love kinematics or motion planning, maybe you just think videos like this 
+&lt;div class=&#8221;ratio-4-3 embed-video-container&#8221; onclick=&#8221;var myAnchor = document.getElementById(&#8216;SD6Okylclb8&#8217;);var tmpDiv = document.createElement(&#8216;div&#8217;);tmpDiv.innerHTML = &#8216;&lt;iframe style=&quot;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/SD6Okylclb8?autoplay=1&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&#8217;;myAnchor.parentNode.replaceChild(tmpDiv.firstChild, myAnchor);return false;&#8221; title=&#8221;click here to play&#8221;&gt;
+<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/SD6Okylclb8/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=SD6Okylclb8" id="SD6Okylclb8" onclick="return false;">
+&lt;div class=&#8221;youtube-lazy-link-div&#8221;&gt;&lt;/div&gt;
+&lt;div class=&#8221;youtube-lazy-link-info&#8221;&gt;Atlas Update&lt;/div&gt;
+</a>
+&lt;div class=&#8221;video-info&#8221; &gt;Atlas is an anthropomorphic robot designed to operate on rough terrain.  The video shows Atlas balancing as it walks on rocky terrain and when pushed from the side.  The balance and control system places the feet and swings the arms and upper body to stay upright.  The controller uses inertial, kinematic and load data from Atlas’s sensors.  Atlas is being developed by Boston Dynamics with funding from DARPA’s M3 program.  For more information visit www.BostonDynamics.com&lt;/div&gt;
+&lt;/div&gt;</p>
+
+<p>or this 
+&lt;div class=&#8221;ratio-4-3 embed-video-container&#8221; onclick=&#8221;var myAnchor = document.getElementById(&#8216;MvRTALJp8DM&#8217;);var tmpDiv = document.createElement(&#8216;div&#8217;);tmpDiv.innerHTML = &#8216;&lt;iframe style=&quot;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/MvRTALJp8DM?autoplay=1&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&#8217;;myAnchor.parentNode.replaceChild(tmpDiv.firstChild, myAnchor);return false;&#8221; title=&#8221;click here to play&#8221;&gt;
+<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/MvRTALJp8DM/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=MvRTALJp8DM" id="MvRTALJp8DM" onclick="return false;">
+&lt;div class=&#8221;youtube-lazy-link-div&#8221;&gt;&lt;/div&gt;
+&lt;div class=&#8221;youtube-lazy-link-info&#8221;&gt;Aggressive Maneuvers for Autonomous Quadrotor Flight&lt;/div&gt;
+</a>
+&lt;div class=&#8221;video-info&#8221; &gt;Control of precise aggressive maneuvers with an autonomous quadrotor helicopter.  This is a small autonomous Unmanned Aerial Vehicle (UAV).  Demonstrations of flips, flight through windows, and quadrotor perching are shown.  Work done at the GRASP Lab, University of Pennsylvania.</p>
+
+<p>Here is a link to the paper: http://www.seas.upenn.edu/~dmel/mellingerISER2010.pdf&lt;/div&gt;
+&lt;/div&gt;</p>
+
+<p>are really cool - it doesn’t matter. </p>
+
+<h3 id="interesting-problems">Interesting problems</h3>
 
 <h2 id="the-quadcopter">The quadcopter</h2>
 
