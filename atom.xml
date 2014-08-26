@@ -4,7 +4,7 @@
   <title><![CDATA[Introduction to Aerial Robotics]]></title>
   <link href="http://wbthomason.github.io/robotclass/atom.xml" rel="self"/>
   <link href="http://wbthomason.github.io/robotclass/"/>
-  <updated>2014-08-25T21:45:48-04:00</updated>
+  <updated>2014-08-25T21:47:49-04:00</updated>
   <id>http://wbthomason.github.io/robotclass/</id>
   <author>
     <name><![CDATA[Wil Thomason]]></name>
@@ -43,9 +43,9 @@
 
 <h2 id="why-robotics">Why robotics?</h2>
 <p>Clearly, given that you’re enrolled in this class/reading this page, you have some manner of interest in robotics. Maybe you’re fascinated by artificial intelligence, maybe you love kinematics or motion planning, maybe you just think videos like this
-&lt;iframe width=&#8221;640&#8221; height=&#8221;360&#8221; src=&#8221;http://www.youtube.com/embed/SD6Okylclb8&#8221; frameborder=&#8221;0&#8221;/&gt;
+<img src="http://www.youtube.com/embed/SD6Okylclb8" alt="" />
 or this
-&lt;iframe width=&#8221;640&#8221; height=&#8221;360&#8221; src=&#8221;//www.youtube.com/embed/MvRTALJp8DM&#8221; frameborder=&#8221;0&#8221; allowfullscreen&gt;&lt;/iframe&gt;
+<img src="http://www.youtube.com/embed/MvRTALJp8DM" alt="" />
 are really cool - it doesn’t matter.</p>
 
 <h3 id="interesting-problems">Interesting problems</h3>
