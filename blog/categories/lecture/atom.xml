@@ -4,7 +4,7 @@
   <title><![CDATA[Category: lecture | Introduction to Aerial Robotics]]></title>
   <link href="http://wbthomason.github.io/robotclass/blog/categories/lecture/atom.xml" rel="self"/>
   <link href="http://wbthomason.github.io/robotclass/"/>
-  <updated>2014-08-25T21:47:49-04:00</updated>
+  <updated>2014-08-25T21:49:20-04:00</updated>
   <id>http://wbthomason.github.io/robotclass/</id>
   <author>
     <name><![CDATA[Wil Thomason]]></name>
@@ -43,7 +43,16 @@
 
 <h2 id="why-robotics">Why robotics?</h2>
 <p>Clearly, given that you’re enrolled in this class/reading this page, you have some manner of interest in robotics. Maybe you’re fascinated by artificial intelligence, maybe you love kinematics or motion planning, maybe you just think videos like this
-<img src="http://www.youtube.com/embed/SD6Okylclb8" alt="" />
+
+<div class="ratio-4-3 embed-video-container" onclick="var myAnchor = document.getElementById('SD6Okylclb8');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/SD6Okylclb8?autoplay=1&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, myAnchor);return false;" title="click here to play">
+<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/SD6Okylclb8/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=SD6Okylclb8" id="SD6Okylclb8" onclick="return false;">
+<div class="youtube-lazy-link-div"></div>
+<div class="youtube-lazy-link-info">Atlas Update</div>
+</a>
+<div class="video-info" >Atlas is an anthropomorphic robot designed to operate on rough terrain.  The video shows Atlas balancing as it walks on rocky terrain and when pushed from the side.  The balance and control system places the feet and swings the arms and upper body to stay upright.  The controller uses inertial, kinematic and load data from Atlas's sensors.  Atlas is being developed by Boston Dynamics with funding from DARPA's M3 program.  For more information visit www.BostonDynamics.com</div>
+</div>
+
+
 or this
 <img src="http://www.youtube.com/embed/MvRTALJp8DM" alt="" />
 are really cool - it doesn’t matter.</p>
