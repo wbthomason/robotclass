@@ -4,7 +4,7 @@
   <title><![CDATA[Category: lecture | Introduction to Aerial Robotics]]></title>
   <link href="http://wbthomason.github.io/robotclass/blog/categories/lecture/atom.xml" rel="self"/>
   <link href="http://wbthomason.github.io/robotclass/"/>
-  <updated>2014-08-26T00:37:22-04:00</updated>
+  <updated>2014-08-26T01:06:22-04:00</updated>
   <id>http://wbthomason.github.io/robotclass/</id>
   <author>
     <name><![CDATA[Wil Thomason]]></name>
@@ -60,7 +60,7 @@
 
 <h2 id="the-quadcopter">The quadcopter</h2>
 
-<p>A large part of this course is centered around the construction and modification of an autonomous quadrotor aircraft - it is, after all, titled “Introduction to <em>Aerial</em> Robotics”.</p>
+<p>A large part of this course is centered around the construction and modification of an autonomous quadrotor aircraft - it is, after all, titled “Introduction to <em>Aerial</em> Robotics”. As such, to allow us to focus on robotics more than general engineering design, I’ve created a design for a build.</p>
 
 <h3 id="design">Design</h3>
 
