@@ -4,7 +4,7 @@
   <title><![CDATA[Category: intro | Introduction to Aerial Robotics]]></title>
   <link href="http://wbthomason.github.io/robotclass/blog/categories/intro/atom.xml" rel="self"/>
   <link href="http://wbthomason.github.io/robotclass/"/>
-  <updated>2014-08-25T21:34:37-04:00</updated>
+  <updated>2014-08-25T21:35:17-04:00</updated>
   <id>http://wbthomason.github.io/robotclass/</id>
   <author>
     <name><![CDATA[Wil Thomason]]></name>
@@ -42,7 +42,7 @@
 <p>Above all else with the topics, I wish to emphasize that nothing is immutable; as the overarching intent of the entire course is to foster interest in robotics, the topics will be tweaked to better fit the interests of the students, spending more time in areas of significant interest, giving a more shallow treatment to areas which lack a similar draw, and so on.</p>
 
 <h2 id="why-robotics">Why robotics?</h2>
-<p>Clearly, given that you’re enrolled in this class/reading this page, you have some manner of interest in robotics. Maybe you’re fascinated by artificial intelligence, maybe you love kinematics or motion planning, maybe you just think videos like this &lt;iframe width=&#8221;640&#8221; height=&#8221;360&#8221; src=&#8221;//www.youtube.com/embed/SD6Okylclb8&#8221; frameborder=&#8221;0&#8221;&gt;&lt;/iframe&gt; or this &lt;iframe width=&#8221;640&#8221; height=&#8221;360&#8221; src=&#8221;//www.youtube.com/embed/MvRTALJp8DM&#8221; frameborder=&#8221;0&#8221; &gt;&lt;/iframe&gt; are really cool - it doesn’t matter. </p>
+<p>Clearly, given that you’re enrolled in this class/reading this page, you have some manner of interest in robotics. Maybe you’re fascinated by artificial intelligence, maybe you love kinematics or motion planning, maybe you just think videos like this &lt;iframe width=&#8221;640&#8221; height=&#8221;360&#8221; src=&#8221;//www.youtube.com/embed/SD6Okylclb8&#8221; frameborder=&#8221;0&#8221;/&gt; or this &lt;iframe width=&#8221;640&#8221; height=&#8221;360&#8221; src=&#8221;//www.youtube.com/embed/MvRTALJp8DM&#8221; frameborder=&#8221;0&#8221;/&gt; are really cool - it doesn’t matter. </p>
 
 <h3 id="interesting-problems">Interesting problems</h3>
 
