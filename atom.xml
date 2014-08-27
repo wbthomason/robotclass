@@ -4,7 +4,7 @@
   <title><![CDATA[Introduction to Aerial Robotics]]></title>
   <link href="http://wbthomason.github.io/robotclass/atom.xml" rel="self"/>
   <link href="http://wbthomason.github.io/robotclass/"/>
-  <updated>2014-08-27T12:17:13-04:00</updated>
+  <updated>2014-08-27T12:17:50-04:00</updated>
   <id>http://wbthomason.github.io/robotclass/</id>
   <author>
     <name><![CDATA[Wil Thomason]]></name>
@@ -64,8 +64,6 @@
 
 <h4 id="adaptive-behavior">Adaptive Behavior</h4>
 
-<h3 id="section">#</h3>
-
 <h2 id="the-quadcopter">The quadcopter</h2>
 
 <p>A large part of this course is centered around the construction and modification of an autonomous quadrotor aircraft - it is, after all, titled “Introduction to <em>Aerial</em> Robotics”. As such, to allow us to focus on robotics more than general engineering design, I’ve created a design for a build. It’s based around the fairly common <a href="http://www.hobbyking.com/hobbyking/store/__27033__MultiWii_328P_Flight_Controller_w_FTDI_DSM2_Port.html">Multiwii</a> platform, which provides us with a sensor-rich all-in-one flight control board. Basically, it’s an <a href="http://arduino.cc/en/Main/ArduinoBoardMini">Arduino Mini</a> with a gyro, accelerometer, etc. added on-board. As the flight controller, this serves as the brains of the quadcopter. Once we’ve finished the initial build and verified its functionality using the base firmware, we’ll begin writing our own versions of the software components.
@@ -77,7 +75,9 @@ The rest of the build is pretty standard - we’re using the following parts:
 * <strong>Radio:</strong> A 915 Mhz <a href="http://www.hobbyking.com/hobbyking/store/__42846__FPV_Radio_Telemetry_Kit_915Mhz.html">transceiver</a> which will allow us to fairly simply connect to and control the quadcopters directly from laptops. This is preferred over the use of a more traditional RC controller because of cost constraints and our intent to make the quadcopters primarily fly fully autonomously.
 * <strong>Battery:</strong> A lightweight 1800mAh 11.1V <a href="http://www.hobbyking.com/hobbyking/store/__21343__ZIPPY_Compact_1800mAh_3S_25C_Lipo_Pack.html">LiPo battery</a>.</p>
 
-<h3 id="tradeoffs">Tradeoffs</h3>
+<h3 id="desired-expansions">Desired expansions</h3>
+
+<p>While the current quadcopter design will suffice for many of our investigations, I’m trying to find a way to get funding for some additional sensors - specifically, some manner of rangefinder, whether IR or ultrasonic, and potentially a GPS sensor. These will enable us to more directly explore problems like the aforementioned SLAM, pathfinding, etc.</p>
 ]]></content>
   </entry>
   
