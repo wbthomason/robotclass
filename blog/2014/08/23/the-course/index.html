@@ -148,13 +148,16 @@
 <h2 id="the-quadcopter">The quadcopter</h2>
 
 <p>A large part of this course is centered around the construction and modification of an autonomous quadrotor aircraft - it is, after all, titled “Introduction to <em>Aerial</em> Robotics”. As such, to allow us to focus on robotics more than general engineering design, I’ve created a design for a build. It’s based around the fairly common <a href="http://www.hobbyking.com/hobbyking/store/__27033__MultiWii_328P_Flight_Controller_w_FTDI_DSM2_Port.html">Multiwii</a> platform, which provides us with a sensor-rich all-in-one flight control board. Basically, it’s an <a href="http://arduino.cc/en/Main/ArduinoBoardMini">Arduino Mini</a> with a gyro, accelerometer, etc. added on-board. As the flight controller, this serves as the brains of the quadcopter. Once we’ve finished the initial build and verified its functionality using the base firmware, we’ll begin writing our own versions of the software components.
-The rest of the build is pretty standard - we’re using the following parts:
-* <strong>Motors:</strong> Turnigy SK3 <a href="http://www.hobbyking.com/hobbyking/store/__23911__Turnigy_Aerodrive_SK3_2826_1130kv_Brushless_Outrunner_Motor_USA_Warehouse_.html">motors</a>.
-* <strong>Frame:</strong> A 450mm fiberglass <a href="http://www.hobbyking.com/hobbyking/store/__49725__Q450_V3_Glass_Fiber_Quadcopter_Frame_450mm_Integrated_PCB_Version.html">frame</a> which directly incorporates the PCB for hooking up power and motor control into the frame, which should make our wiring and electronics simpler.
-* <strong>Propellors:</strong> Fairly standard <a href="http://www.hobbyking.com/hobbyking/store/__25819__10x4_5_SF_Props_2pc_CW_2_pc_CCW_Rotation_Blue_.html">propellors</a>.
-* <strong>Electronic Speed Controllers (ESCs):</strong> Turnigy MultiStar <a href="http://www.hobbyking.com/hobbyking/store/__25364__Turnigy_Multistar_20_Amp_Multi_rotor_Brushless_ESC_2_4S.html">ESCs</a> - fairly standard, and should work well with the rest of our setup. Though I don’t intend to do so in this course, they do support firmware customization, if anyone is interested in doing so.
-* <strong>Radio:</strong> A 915 Mhz <a href="http://www.hobbyking.com/hobbyking/store/__42846__FPV_Radio_Telemetry_Kit_915Mhz.html">transceiver</a> which will allow us to fairly simply connect to and control the quadcopters directly from laptops. This is preferred over the use of a more traditional RC controller because of cost constraints and our intent to make the quadcopters primarily fly fully autonomously.
-* <strong>Battery:</strong> A lightweight 1800mAh 11.1V <a href="http://www.hobbyking.com/hobbyking/store/__21343__ZIPPY_Compact_1800mAh_3S_25C_Lipo_Pack.html">LiPo battery</a>.</p>
+The rest of the build is pretty standard - we’re using the following parts:</p>
+
+<ul>
+  <li><strong>Motors:</strong> Turnigy SK3 <a href="http://www.hobbyking.com/hobbyking/store/__23911__Turnigy_Aerodrive_SK3_2826_1130kv_Brushless_Outrunner_Motor_USA_Warehouse_.html">motors</a>.</li>
+  <li><strong>Frame:</strong> A 450mm fiberglass <a href="http://www.hobbyking.com/hobbyking/store/__49725__Q450_V3_Glass_Fiber_Quadcopter_Frame_450mm_Integrated_PCB_Version.html">frame</a> which directly incorporates the PCB for hooking up power and motor control into the frame, which should make our wiring and electronics simpler.</li>
+  <li><strong>Propellors:</strong> Fairly standard <a href="http://www.hobbyking.com/hobbyking/store/__25819__10x4_5_SF_Props_2pc_CW_2_pc_CCW_Rotation_Blue_.html">propellors</a>.</li>
+  <li><strong>Electronic Speed Controllers (ESCs):</strong> Turnigy MultiStar <a href="http://www.hobbyking.com/hobbyking/store/__25364__Turnigy_Multistar_20_Amp_Multi_rotor_Brushless_ESC_2_4S.html">ESCs</a> - fairly standard, and should work well with the rest of our setup. Though I don’t intend to do so in this course, they do support firmware customization, if anyone is interested in doing so.</li>
+  <li><strong>Radio:</strong> A 915 Mhz <a href="http://www.hobbyking.com/hobbyking/store/__42846__FPV_Radio_Telemetry_Kit_915Mhz.html">transceiver</a> which will allow us to fairly simply connect to and control the quadcopters directly from laptops. This is preferred over the use of a more traditional RC controller because of cost constraints and our intent to make the quadcopters primarily fly fully autonomously.</li>
+  <li><strong>Battery:</strong> A lightweight 1800mAh 11.1V <a href="http://www.hobbyking.com/hobbyking/store/__21343__ZIPPY_Compact_1800mAh_3S_25C_Lipo_Pack.html">LiPo battery</a>.</li>
+</ul>
 
 <h3 id="desired-expansions">Desired expansions</h3>
 
