@@ -4,7 +4,7 @@
   <title><![CDATA[Category: intro | Introduction to Aerial Robotics]]></title>
   <link href="http://wbthomason.github.io/robotclass/blog/categories/intro/atom.xml" rel="self"/>
   <link href="http://wbthomason.github.io/robotclass/"/>
-  <updated>2014-08-27T12:18:34-04:00</updated>
+  <updated>2014-08-27T23:41:49-04:00</updated>
   <id>http://wbthomason.github.io/robotclass/</id>
   <author>
     <name><![CDATA[Wil Thomason]]></name>
@@ -60,9 +60,17 @@
 
 <h4 id="slam">SLAM</h4>
 
-<h4 id="balance--locomotion">Balance &amp; Locomotion</h4>
+<p>SLAM, or <a href="https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping">Simultaneous Localization and Mapping</a> is one of the problems we’ll be studying this semester, and is among the most important (solved) problems in robotics today. Essentially, SLAM places a robot in a totally unknown environment, and asks how to simultaneously determine the state of the world and the state of the robot - in other words, asking both “What is the world like?” and “Where am I?” at the same time. As the answers to these questions are codependent, solving the problem is decidedly non-trivial.</p>
+
+<h4 id="locomotion-and-mobility">Locomotion and Mobility</h4>
+
+<p>A significant portion of robotics research focuses on how to make robots capable of navigating more “interesting” terrain than a laboratory floor (great examples of this include most of Boston Dynamics’ work, most famously <a href="http://youtu.be/cNZPRsrwumQ">BigDog</a>). Additionally, designing robots to effectively traverse environments inhospitable to humans - such as <a href="http://www.puretechltd.com/services/robotics/">pipes</a>, <a href="http://www.wired.co.uk/news/archive/2012-07/25/mantabot">underwater</a>, and - most relevant to this class - the <a href="http://newsoffice.mit.edu/2012/autonomous-robotic-plane-flies-indoors-0810">air</a> - is a very active, very interesting area of robotics research.</p>
 
 <h4 id="adaptive-behavior">Adaptive Behavior</h4>
+
+<p>For robots to attain their full utility, they need to be, in some sense, intelligent - a key aspect of which is the ability to adapt and respond to novel situations and synthesize an action based on past experience. Some very interesting work in this area is being done - examples include research into an algorithm for allowing a robot with no knowledge of its physical form to learn to <a href="http://youtu.be/iNL5-0_T1D0">walk</a>, more general models for the learning of <a href="http://groups.csail.mit.edu/robotics-center/public_papers/Tedrake05.pdf">bipedal locomotion</a>, and teaching a robot to avoid <a href="http://cs.stanford.edu/groups/littledog/pubs/lee-icra06.pdf">obstacles</a> through a machine learning technique.</p>
+
+<p>We’ll be going into more depth on a number of active research areas in robotics throughout the course of the semester.</p>
 
 <h2 id="the-quadcopter">The quadcopter</h2>
 
@@ -80,7 +88,9 @@ The rest of the build is pretty standard - we’re using the following parts:</p
 
 <h3 id="desired-expansions">Desired expansions</h3>
 
-<p>While the current quadcopter design will suffice for many of our investigations, I’m trying to find a way to get funding for some additional sensors - specifically, some manner of rangefinder, whether IR or ultrasonic, and potentially a GPS sensor. These will enable us to more directly explore problems like the aforementioned SLAM, pathfinding, etc.</p>
+<p>While the current quadcopter design will suffice for many of our investigations, I’m trying to find a way to get funding for some additional sensors - specifically, some manner of rangefinder, whether IR or ultrasonic, and potentially a GPS sensor. These will enable us to more directly explore problems like the aforementioned SLAM, pathfinding, etc. I should hopefully have more updates on this in class/in a future posting.</p>
+
+<p>That’s all for now - see you in class!</p>
 ]]></content>
   </entry>
   
