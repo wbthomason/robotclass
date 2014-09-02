@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: logistics | Introduction to Aerial Robotics]]></title>
+  <link href="http://wbthomason.github.io/robotclass/blog/categories/logistics/atom.xml" rel="self"/>
+  <link href="http://wbthomason.github.io/robotclass/"/>
+  <updated>2014-09-02T11:52:18-04:00</updated>
+  <id>http://wbthomason.github.io/robotclass/</id>
+  <author>
+    <name><![CDATA[Wil Thomason]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[room update]]></title>
+    <link href="http://wbthomason.github.io/robotclass/blog/2014/09/02/room-update/"/>
+    <updated>2014-09-02T11:45:21-04:00</updated>
+    <id>http://wbthomason.github.io/robotclass/blog/2014/09/02/room-update</id>
+    <content type="html"><![CDATA[<p>As a quick update, we’ve been assigned to meet in Thornton E 108 for class. This is a change from the earlier room announcement of Thornton C 123. </p>
+]]></content>
+  </entry>
+  
+</feed>

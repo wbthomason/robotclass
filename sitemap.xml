@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http://wbthomason.github.io/robotclass/blog/2014/09/02/room-update/</loc>
+    <lastmod>2014-09-02T11:45:21-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://wbthomason.github.io/robotclass/blog/2014/08/23/the-course/</loc>
     <lastmod>2014-08-23T13:47:23-04:00</lastmod>
     <priority>0.8</priority>
@@ -11,42 +17,42 @@
   
   <url>
     <loc>http://wbthomason.github.io/robotclass/blog/</loc>
-    <lastmod>2014-09-02T11:41:14-04:00</lastmod>
+    <lastmod>2014-09-02T11:52:18-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://wbthomason.github.io/robotclass/</loc>
-    <lastmod>2014-09-02T11:41:14-04:00</lastmod>
+    <lastmod>2014-09-02T11:52:18-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://wbthomason.github.io/robotclass/blog/archives/</loc>
-    <lastmod>2014-09-02T11:41:14-04:00</lastmod>
+    <lastmod>2014-09-02T11:52:18-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://wbthomason.github.io/robotclass/archives/</loc>
-    <lastmod>2014-09-02T11:41:14-04:00</lastmod>
+    <lastmod>2014-09-02T11:52:18-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://wbthomason.github.io/robotclass/resources/</loc>
-    <lastmod>2014-09-02T11:41:14-04:00</lastmod>
+    <lastmod>2014-09-02T11:52:18-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://wbthomason.github.io/robotclass/assignments/</loc>
-    <lastmod>2014-09-02T11:41:14-04:00</lastmod>
+    <lastmod>2014-09-02T11:52:18-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
